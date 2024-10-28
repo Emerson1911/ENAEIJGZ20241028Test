@@ -27,8 +27,6 @@ C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debu
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\WebDriver.dll
-C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -94,7 +92,6 @@ C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debu
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\obj\Debug\net6.0\ENAEIJGZ20241028Test.csproj.AssemblyReference.cache
@@ -109,3 +106,4 @@ C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\obj\Debu
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\obj\Debug\net6.0\ENAEIJGZ20241028Test.pdb
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\obj\Debug\net6.0\ENAEIJGZ20241028Test.genruntimeconfig.cache
 C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\obj\Debug\net6.0\ref\ENAEIJGZ20241028Test.dll
+C:\Users\emers\Desktop\Examen\ENAEIJGZ20241028Test\ENAEIJGZ20241028Test\bin\Debug\net6.0\WebDriver.Support.dll
