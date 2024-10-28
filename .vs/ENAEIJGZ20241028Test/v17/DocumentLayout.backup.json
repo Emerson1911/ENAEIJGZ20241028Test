@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\Desktop\\Examen\\ENAEIJGZ20241028Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B445285B-F034-412D-8FE9-B020DF726A65}|ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test.csproj|c:\\users\\emers\\desktop\\examen\\enaeijgz20241028test\\enaeijgz20241028test\\enaeijgz20241028test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B445285B-F034-412D-8FE9-B020DF726A65}|ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test.csproj|solutionrelative:enaeijgz20241028test\\enaeijgz20241028test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ENAEIJGZ20241028Test.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Examen\\ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test.cs",
+              "RelativeDocumentMoniker": "ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Examen\\ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test.cs",
+              "RelativeToolTip": "ENAEIJGZ20241028Test\\ENAEIJGZ20241028Test.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAzwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:55:45.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
